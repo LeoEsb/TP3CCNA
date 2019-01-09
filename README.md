@@ -1,5 +1,5 @@
 # TP3 CCNA
-#1.Création et utilisation simples d'une VM CentOS
+# 1.Création et utilisation simples d'une VM CentOS
 ## I-Création
 ## II-Installation de l'OS
 ## III-Premier boot
@@ -30,11 +30,11 @@
    
    ![Légende](IMG/IMG8.PNG)
    
-   #2.Notion de ports et SSH
+   # 2.Notion de ports et SSH
    
-  ##I-Exploration des ports locaux
+  ## I-Exploration des ports locaux
   ![Légende](IMG/IMG9.PNG)
   
-  #II-SSH
+  # II-SSH
   
   ![Légende](IMG/IMG10.PNG)
