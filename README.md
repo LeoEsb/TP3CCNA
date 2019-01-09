@@ -20,18 +20,11 @@
 ## V-Faire joujou avec quelques commandes
    *A faire*  
    * cf `Voir IV à faire`  
-   * 
-   
-   ![Légende](IMG/IMG4_1.PNG)
-   
+   * ![Légende](IMG/IMG4_1.PNG)
    ![Légende](IMG/IMG5_1.PNG)
-   *  
-   
-   ![Légende](IMG/IMG6.PNG)
+   *  ![Légende](IMG/IMG6.PNG)
   
-   * 
-   
-   ![Légende](IMG/IMG7.PNG)
+   * ![Légende](IMG/IMG7.PNG)
    
    ![Légende](IMG/IMG8.PNG)
    
@@ -39,5 +32,6 @@
    
   ##I-Exploration des ports locaux
   ![Légende](IMG/IMG9.PNG)
+  
   #II-SSH
   ![Légende](IMG/IMG10.PNG)
