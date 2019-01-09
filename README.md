@@ -8,6 +8,7 @@
    *A faire*  
    a. Pour prouver qu'il y a internet sur la VM j'ai utilisé le raccourci :curl google.com  
    ![Légende](IMG/IMG1.PNG)
+   
    b. Pour prouver que mon PC et la VM peuvent communiquer j'ai fais la commande: ping 192.168.127.1 et ping 192.168.127.10
    ![Légende](IMG/IMG2.PNG)
    ![Légende](IMG/IMG3.PNG)  
