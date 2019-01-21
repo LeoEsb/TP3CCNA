@@ -38,9 +38,9 @@
   ![Légende](IMG/IMG11.PNG)  
   ## III-Firewall
   A-SSH
-  Modification du port 22 en port 2222
-  ![Légende](IMG/IMG12.PNG)  
-  Modif via le Firewall et la connexion a pu etre etabli avec putty
+  Modification du port 22 en port 2222  
+  ![Légende](IMG/IMG12.PNG)    
+  Modif via le Firewall et la connexion a pu etre etabli avec putty  
   ![Légende](IMG/IMG13.PNG)  
   
   B-NETCAT
@@ -51,13 +51,13 @@ J'ai pu dialoguer entre mes deux terminals sur le port 5454 mais lorsque je fais
    # 3.Routage statique
    
    # II-Configuration du routage
-   Voici l'addrese IP de mon PC1 et de la VM1
+   Voici l'addrese IP de mon PC1 et de la VM1  
    ![Légende](IMG/IMG15.PNG)  
-   J'ai ping le réseau 2 depuis ma VM1.
+   J'ai ping le réseau 2 depuis ma VM1.  
    ![Légende](IMG/IMG16.PNG)  
-   J'ai ping le réseau 12 depuis ma VM1.
+   J'ai ping le réseau 12 depuis ma VM1.  
    ![Légende](IMG/IMG17.PNG)  
     
    # III-Configuration des noms de domaine
-   J'ai changé mon nom de domaine et j'ai seulement réussi à ping ma propre VM depuis ma VM avec le nom de domaine.
+   J'ai changé mon nom de domaine et j'ai seulement réussi à ping ma propre VM depuis ma VM avec le nom de domaine.  
    ![Légende](IMG/IMG18.PNG)  
